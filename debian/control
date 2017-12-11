@@ -1,11 +1,11 @@
-Source: c1-netrunner-core
+Source: c1-netrunner-zeronet-packages
 Section: admin
 Priority: optional
 Maintainer: Leszek Lesner <leszek@zevenos.com>
 Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 
-Package: c1-netrunner-core
+Package: c1-netrunner-zeronet-packages
 Architecture: armhf
 Recommends: alsa-utils,
             apt-xapian-index,
