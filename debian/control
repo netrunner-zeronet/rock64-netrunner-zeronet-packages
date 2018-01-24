@@ -6,7 +6,7 @@ Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 
 Package: rock64-netrunner-zeronet-packages
-Architecture: armhf
+Architecture: arm64
 Recommends: alsa-utils,
             apt-xapian-index,
             ark,
