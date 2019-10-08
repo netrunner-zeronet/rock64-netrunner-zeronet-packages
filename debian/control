@@ -2,8 +2,8 @@ Source: rock64-netrunner-zeronet-packages
 Section: admin
 Priority: optional
 Maintainer: Leszek Lesner <leszek@zevenos.com>
-Build-Depends: debhelper (>= 5)
-Standards-Version: 3.7.2
+Build-Depends: debhelper (>= 12)
+Standards-Version: 4.4.0
 
 Package: rock64-netrunner-zeronet-packages
 Architecture: arm64

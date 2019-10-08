@@ -1,5 +1,12 @@
+rock64-netrunner-zeronet-packages (16) unstable; urgency=medium
+
+  * Bump compat to 12. 
+
+ -- Scarlett Moore <sgmoore@kde.org>  Mon, 07 Oct 2019 17:03:17 -0700
+
 rock64-netrunner-zeronet-packages (15) unstable; urgency=low
 
+  [ Leszek Lesner ]
   * Initial release
 
- -- Leszek Lesner <leszek@zevenos.com>  Mon, 16 Mar 2015 16:39:20 +0100
+ -- Scarlett Moore <sgmoore@kde.org>  Mon, 07 Oct 2019 17:02:44 -0700
