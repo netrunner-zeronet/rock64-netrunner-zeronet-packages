@@ -10,7 +10,7 @@ Architecture: arm64
 Recommends: alsa-utils,
             apt-xapian-index,
             ark,
-            artwork-lnf-netrunner-zeronet,
+            artwork-lnf-netrunner-zeronet-rock64,
             artwork-wallpapers-netrunner-zeronet-rock64,
             base-files (>= 9),
             bluedevil,
